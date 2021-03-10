@@ -1,10 +1,9 @@
 function main() {
-    var x;
-    var y;
-    var z = "My name is";
+    var x = 7;
+    var y = 12;
+    var z;
 
-    x = 7;
-    y = 12;
+    z = "My name is"
 
     x = x + 2;
     y = y + 4;
