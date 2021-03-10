@@ -1,9 +1,9 @@
 function main() {
     var x = 7;
     var y = 12;
-    var z;
+    var z = "My name is";
 
-    z = "My name is"
+    
 
     x = x + 2;
     y = y + 4;
