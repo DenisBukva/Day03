@@ -2,8 +2,8 @@ function main() {
     var x;
     var y;
     x = 10;
-    y = 10;
-    x = y;
+    y = x;
+    
 
     return [x, y];
 }
